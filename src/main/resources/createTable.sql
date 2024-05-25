@@ -1,3 +1,4 @@
+create database cathaybk;
 CREATE TABLE `product` (
   `id` int unsigned NOT NULL AUTO_INCREMENT COMMENT 'pk',
   `name` varchar(255) NOT NULL DEFAULT '' COMMENT '商品名稱',
